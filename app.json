@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/DarkOffical/Elsa",
-    "repository": "https://github.com/DarkOffical/Elsa",
+    "website": "https://github.com/VMTY1/Elsa",
+    "repository": "https://github.com/VMTY1/Elsa",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
